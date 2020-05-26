@@ -1,0 +1,42 @@
+h1 {
+  color: #cfc;
+}
+
+body {
+  background-color: #333333;
+}
+
+.bla {
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+}
+
+.bla:hover {
+  background: #fcd;
+}
+
+.bla ul li:first-child {
+  color: green;
+}
+
+.link {
+  color: green;
+}
+
+.link:visited {
+  color: green;
+}
+
+.link:hover {
+  color: red;
+}
+
+.red {
+  color: red;
+}
+
+.bla {
+  width: 300px;
+  height: 300px;
+}
